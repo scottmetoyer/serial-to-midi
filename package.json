@@ -1,0 +1,15 @@
+{
+  "name": "serial-to-midi",
+  "version": "1.0.0",
+  "description": "Serial (from Arduino) to MIDI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Metoyer",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^1.0.0",
+    "serialport": "^7.1.5"
+  }
+}
